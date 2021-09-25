@@ -1,0 +1,12 @@
+
+s
+java:S1450"XRemove the "dockFound" field and declare it as a local variable in the relevant methods.(µÅ›üÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(—çÙ
+H
+java:S1068
+"-Remove this unused "docksBase" private field.(ÿäšÉúÿÿÿÿ
+H
+java:S1068"-Remove this unused "condition" private field.(İ™šşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ØË øÿÿÿÿ
+M
+java:S2589"7Remove this expression which always evaluates to "true"(áû¿¤
